@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/login-form-validation-using-reactjs/static/css/main.5f3aac11.css",
+    "main.js": "/login-form-validation-using-reactjs/static/js/main.10055316.js",
+    "static/js/787.3efd2a78.chunk.js": "/login-form-validation-using-reactjs/static/js/787.3efd2a78.chunk.js",
+    "index.html": "/login-form-validation-using-reactjs/index.html",
+    "main.5f3aac11.css.map": "/login-form-validation-using-reactjs/static/css/main.5f3aac11.css.map",
+    "main.10055316.js.map": "/login-form-validation-using-reactjs/static/js/main.10055316.js.map",
+    "787.3efd2a78.chunk.js.map": "/login-form-validation-using-reactjs/static/js/787.3efd2a78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f3aac11.css",
+    "static/js/main.10055316.js"
+  ]
+}
